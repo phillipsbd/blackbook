@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.ncm.blackbook
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle_kotlin
+features: [app-name, data, data-jpa, gradle, http-client-test, java, java-application, jdbc-hikari, junit, logback, management, micronaut-aot, micronaut-build, micronaut-http-validation, netty-server, postgres, properties, readme, security-annotations, security-jwt, serialization-jackson, shade, test-resources]
